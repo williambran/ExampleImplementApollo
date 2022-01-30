@@ -8,6 +8,6 @@ This is a proyect that implement ApolloGrapQL ፨
 
 Install Apollo SDK for IOS in:
 
-[Apollo] (https://www.apollographql.com/docs/ios/tutorial/tutorial-introduction/) - Install 
+* [Apollo] (https://www.apollographql.com/docs/ios/tutorial/tutorial-introduction/) - Install 
 
 
